@@ -1,0 +1,51 @@
+﻿  lab1.cpp
+  main.cpp
+C:\Users\yyyy\source\repos\lab-1\lab1.h(7,5): error C2365: 'FIRST_FOUND_ALGORITHM': redefinition; previous definition was 'enumerator'
+C:\Users\yyyy\source\repos\lab-1\lab1.h(7): message : see declaration of 'FIRST_FOUND_ALGORITHM'
+C:\Users\yyyy\source\repos\lab-1\lab1.h(8,5): error C2365: 'MIN_SIZE_ALGORITHM': redefinition; previous definition was 'enumerator'
+C:\Users\yyyy\source\repos\lab-1\lab1.h(8): message : see declaration of 'MIN_SIZE_ALGORITHM'
+C:\Users\yyyy\source\repos\lab-1\lab1.h(9,3): error C2371: 'SearchAlgorithm': redefinition; different basic types
+C:\Users\yyyy\source\repos\lab-1\lab1.h(9): message : see declaration of 'SearchAlgorithm'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(23,32): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [14]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(23,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(28,43): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [25]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(28,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(31,52): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [34]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(31,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(34,71): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [53]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(34,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(37,52): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [34]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(37,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(40,72): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [54]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(40,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(43,67): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [49]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(43,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(46,64): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [46]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(46,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(52,41): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [23]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(52,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(69,32): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [14]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(69,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(72,46): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [28]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(72,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(79,58): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [40]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(79,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(88,43): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [25]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(88,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(103,57): error C2664: 'void infoAndWait(char [])': cannot convert argument 1 from 'const char [38]' to 'char []'
+C:\Users\yyyy\source\repos\lab-1\main.cpp(103,17): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\yyyy\source\repos\lab-1\main.cpp(11,6): message : see declaration of 'infoAndWait'
+  Generating Code...
